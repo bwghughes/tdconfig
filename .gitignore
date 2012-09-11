@@ -14,7 +14,7 @@ var
 src
 sdist
 develop-eggs
-
+man
 # logs
 pip-log.txt
 *.log
