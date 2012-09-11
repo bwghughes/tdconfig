@@ -13,8 +13,7 @@ Note
 
 2. Untar the download (or run the following to get it:)
 
-	`$ wget https://github.com/downloads/bwghughes/tdconfig/bwghughes-tdconfig-fdc758d.tar.gz`
-
+	`$ wget https://github.com/downloads/bwghughes/tdconfig/TestDrivenConfig-0.1-Concept.tar.gz`
 
 3. Install the dependencies:
 
