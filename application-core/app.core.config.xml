@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<server>
+    <cluster>
+        <node>
+            <id>
+               103.123.11.12
+            </id>
+            <name>
+                monkey.local
+            </name>
+            <member-of>
+                monkey.cluster
+            </member-of>
+            <director-port>
+                8521
+            </director-port>
+        </node>
+        <application>
+            <root>
+                /opt/apps/j2ee/websphere/uc-core
+            </root>
+            <logs>
+                /var/log/j2ee/websphere/uc-core/application.log
+            </logs>
+            <static-dir>
+                /var/www/uc-core/static
+            </static-dir>
+        </application>
+    </cluster>
+</server>
